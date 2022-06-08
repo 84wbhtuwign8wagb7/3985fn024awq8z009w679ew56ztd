@@ -1,0 +1,142 @@
+body {
+    font-size: 15pt;
+    background:url("https://media.discordapp.net/attachments/983502610294251543/983502689289764864/wp9365471.png");
+    color: #b32fba;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+}
+#titelfoto{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 7px;
+  margin: auto;
+}
+#titelid{
+  
+  margin-bottom: 20px;
+}
+
+#titel2{
+  text-align: center;
+  border: 3px solid none;
+  border-radius: 15px;
+  margin-bottom: 40px;
+  
+  
+}
+#desc{
+  margin: 10px;
+}
+
+#downloadbtn{
+ background: black;
+  color: white;
+  border: 5px solid purple;
+ padding-left: 150px;
+ padding-right: 150px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+  text-decoration: none;
+  border-radius: 15px;
+  position: center;
+  
+
+}
+#homepfp{
+   width: 80%;
+  height: 80%;
+  padding: 1px;
+  border: 3px solid ;
+  border-radius: 25px;
+  background-color: black;
+}
+#homepfpborder{
+  text-align: center;
+  border: 6px solid ;
+  border-radius: 30px;
+  width: 50%;
+  padding: 5%;
+  margin: auto;
+  margin-bottom: 10px;
+  transition: background 0.5s, padding 0.5s;
+}
+ #homepfpborder:hover{
+  background:#130124;
+  padding: 7%;
+}
+
+
+#dctag{
+  color: ghostwhite;
+}
+
+#tagg{
+
+  font-size: 40px;
+  font-weight: 600;
+  
+  
+}
+
+
+#tl{
+  border: 2px solid;
+  border-radius: 15px;
+  background:url("https://media.discordapp.net/attachments/983502610294251543/983513495574302740/17161486.jpg");
+}
+#tlS{
+  text-align: center;
+  color: White;
+}
+#h55{
+  color: whitesmoke;
+  text-align: center;
+}
+#download{
+background: black;
+  color: white;
+  border: 5px solid purple;
+  padding: 20px;
+  text-decoration: none;
+  border-radius: 12px;
+  position: center;
+  width: 30px;
+  padding: 5px;
+}
+#cl{
+  border: 3px solid;
+  border-radius: 15px;
+  background:url("https://media.discordapp.net/attachments/983502610294251543/983675213554274356/ezgif.com-gif-maker.gif");
+  margin-bottom: 20px;
+  
+}
+#cll{
+  text-align: center;
+  color: white;
+  
+  
+}
+#clll{
+  text-align: center;
+  color: purple;
+}
+#tagg{
+  text-align: center;
+}
+#releasein{
+  color: white;
+}
+#countdown{
+  color: purple;
+  
+}
+
+
+
+
+
+#hrr{
+  border: 2px solid purple;
+  border-radius: 15px;
+}
